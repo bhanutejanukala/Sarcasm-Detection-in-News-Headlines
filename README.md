@@ -1,1 +1,2 @@
-# Sarcasm_Detection_Model
+# Sarcasm Detection In News Headlines
+This project focuses on developing a sarcasm detection model tailored for news headlines. Leveraging both machine learning and deep learning techniques, the model aims to automatically detect whether a given news headline is sarcastic. The core features include a curated dataset, various feature extraction methods, and the implementation of both traditional machine learning models and deep learning models for effective sarcasm identification.
